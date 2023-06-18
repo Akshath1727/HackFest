@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092012112035",
+    "project_id": "plant-pal-5034a",
+    "storage_bucket": "plant-pal-5034a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092012112035:android:b52b6472fa6b8660406716",
+        "android_client_info": {
+          "package_name": "com.example.vruksh_guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092012112035-t8d49m3clvbtres9r6c6ukrpcpt2r988.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbgiVotAL_Hz6Yb4Rd1iMObQloogvYcsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092012112035-t8d49m3clvbtres9r6c6ukrpcpt2r988.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
